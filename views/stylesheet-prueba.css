@@ -289,22 +289,22 @@ footer a {
 /*--------------- Animaciones------------ */
 
 @keyframes headerAnimation {
-	0% { background-image: url(../img/Music-therapy.jpg);		
+	0% { background-image: url(../img/music-therapy.jpg);		
 	}
 
-	20% { background-image: url(../img/Music-therapy1.jpg);		
+	20% { background-image: url(../img/music-therapy1.jpg);		
 	}
 
-	40%{ background-image: url(../img/Music-therapy2.jpg);		
+	40%{ background-image: url(../img/music-therapy2.jpg);		
 	}
 
-	60%{ background-image: url(../img/Music-therapy3.jpg);		
+	60%{ background-image: url(../img/music-therapy3.jpg);		
 	}
 
-	80%{ background-image: url(../img/Music-therapy4.jpg);		
+	80%{ background-image: url(../img/music-therapy4.jpg);		
 	}
 
-	100%{ background-image: url(../img/Music-therapy5.jpg);		
+	100%{ background-image: url(../img/music-therapy5.jpg);		
 	}
 
 }
