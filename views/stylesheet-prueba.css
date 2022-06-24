@@ -286,7 +286,42 @@ footer a {
 }
 
 
+/*--------------- Animaciones------------ */
 
+@keyframes headerAnimation {
+	0% { background-image: url(../img/Music-therapy.jpg);		
+	}
+
+	20% { background-image: url(../img/Music-therapy1.jpg);		
+	}
+
+	40%{ background-image: url(../img/Music-therapy2.jpg);		
+	}
+
+	60%{ background-image: url(../img/Music-therapy3.jpg);		
+	}
+
+	80%{ background-image: url(../img/Music-therapy4.jpg);		
+	}
+
+	100%{ background-image: url(../img/Music-therapy5.jpg);		
+	}
+
+}
+
+
+@keyframes textAlpha {
+	from {opacity: 0;}
+	to { opacity: 1;}
+}
+
+.animacionFondo{
+	animation-name: animateDiv;
+	animation-iteration-count: 1;
+	animation-timing-function: ease;
+	animation-duration: 10s;
+	animation-delay: 0s;
+	}
 
 
 .lista_fondoFijo {
